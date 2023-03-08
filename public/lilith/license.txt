@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lilith - Evangelion
+* source:	https://sketchfab.com/3d-models/lilith-evangelion-3c2b1f896b1e42efbcdcf5bd31804ca5
+* author:	GAMdeveloper (https://sketchfab.com/GAMdeveloper)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lilith - Evangelion" (https://sketchfab.com/3d-models/lilith-evangelion-3c2b1f896b1e42efbcdcf5bd31804ca5) by GAMdeveloper (https://sketchfab.com/GAMdeveloper) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

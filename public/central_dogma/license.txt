@@ -1,0 +1,11 @@
+Model Information:
+* title:	Central Dogma
+* source:	https://sketchfab.com/3d-models/central-dogma-9c5f4eda56714df1b27911ad67d6797c
+* author:	Dr_Mint (https://sketchfab.com/Dr_Mint)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Central Dogma" (https://sketchfab.com/3d-models/central-dogma-9c5f4eda56714df1b27911ad67d6797c) by Dr_Mint (https://sketchfab.com/Dr_Mint) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
